@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohyoreihoe.lookwhossinging.nl/sitemap.xml
